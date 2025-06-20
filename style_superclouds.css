@@ -82,6 +82,7 @@ footer {
   color: var(--color-text);
   font-size: 0.875rem;
   text-align: center;
+  margin-top: 2rem;
 }
 
 footer a {
@@ -94,3 +95,5 @@ footer a:hover,
 footer a:focus {
   text-decoration: underline;
 }
+
+
