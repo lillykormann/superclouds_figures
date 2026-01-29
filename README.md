@@ -1,1 +1,2 @@
-# 3D Figures Kormann et al. (2025): The Superclouds of the Local Milky Way
+Interactive figures related to work done on the superclouds of the local Milky Way.
+
